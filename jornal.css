@@ -1,16 +1,15 @@
-header h1 {
-text-align: center;
+body{
 
-}  
-
-.trabalho
-{
-width: 50%;
-
+    MARGIN-LEFT: 22%;
+    MARGIN-RIGHT: 22%;
 }
-.imagens {
-
-    width: 50%;
-
-
+header {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: 250%;
 }
+
+
+
+
