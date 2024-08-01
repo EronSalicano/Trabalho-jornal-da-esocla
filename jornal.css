@@ -2,6 +2,9 @@ body{
 
     MARGIN-LEFT: 22%;
     MARGIN-RIGHT: 22%;
+    font-family:serif ;
+
+    
 }
 header {
     text-align: center;
@@ -11,6 +14,37 @@ header {
 }
 
 * { margin: 0; padding: 0; }
+
+.titulo
+{
+font-style: oblique;
+font-family: monospace;
+
+
+}
+
+h1
+{
+    margin: revert;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+.texto
+
+{
+    display: flex;
+	flex-direction: row-reverse ;
+  font-size:x-large
+
+
+}
+.imagens
+{
+    
+    height: 350px;
+    width: 550px;
+}
+
 
 .slider {
     display: flex;
@@ -29,8 +63,8 @@ header {
 
 .slider img {
     margin: auto;
-    height: 270px;
-    width: 400px;
+    height: 350px;
+    width: 550px;
     vertical-align: top;
 }
 
